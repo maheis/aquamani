@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aquamani
+- 👀 I’m interested in ... me
+- 🌱 I’m currently learning ... everything
+- 💞️ I’m looking to collaborate on ... nothing
+- 📫 How to reach me ... ...
