@@ -1,5 +1,6 @@
  - 👋 Hi, I’m Manfred
  - 👀 I’m interested in new staff
  - 🌱 I’m currently learning GOlang
- - 💞️ I’m looking to collaborate on CodingCircle from @thenativweb
- - 📫 How to reach me ... ...
+ - 💞️ I’m looking to collaborate on ... my skills are not yet sufficient
+ - 🔝 I'm a power commiter .... there is only one direction
+ - 📫 How to reach me ... up the stairs left ...
